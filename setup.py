@@ -14,8 +14,8 @@ with open(os.path.join(here, "pytube", "version.py")) as fp:
     exec(fp.read())
 
 setup(
-    name="pytube-local-0719",
-    version=0.2,  # noqa: F821
+    name="pytube-local-071724",
+    version="15.0.1",  # noqa: F821
     author="Ronnie Ghose, Taylor Fox Dahlin, Nick Ficano",
     author_email="hey@pytube.io",
     packages=["pytube", "pytube.contrib"],
